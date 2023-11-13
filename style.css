@@ -1,0 +1,346 @@
+@charset "UTF-8";
+
+*{
+
+margin: 0;
+
+
+}
+
+@font-face {
+    font-family: f3;
+    src: url(Handmade.otf);
+}
+
+@font-face {
+    font-family: f1;
+    src: url(Nexa-Heavy.ttf);
+}
+
+@font-face {
+    font-family: f2;
+    src: url(Louis\ George\ Cafe\ Bold.ttf);
+}
+
+
+
+body{
+
+
+background-color: rgb(131, 173, 192);
+
+
+
+}
+
+
+section.p1{
+
+    font-family: f1;
+
+background-color: rgb(6, 95, 133) ;
+
+margin: 0;
+
+padding: 20px;
+
+
+}
+
+div.m9{
+
+
+    background-color: rgb(188, 221, 250);
+margin-top: 190px;
+
+text-align: center;
+padding: 10px;
+
+
+}
+
+div.m9 img{
+text-align: center;
+
+margin-top: 20px;
+}
+
+
+div.m12{
+    background-color: rgb(188, 221, 250);
+margin-top: 400px;
+
+text-align: center;
+padding: 10px;
+
+}
+div.m12 img{
+    margin-top: 20px;
+ 
+    width: 700px;
+    
+    text-align: center;
+    
+    }
+
+
+div.m11{
+    padding: 10px;
+    background-color: rgb(188, 221, 250);
+
+margin-top: 400px;
+
+text-align: center;
+
+}
+
+div.m11 img{
+
+width: 700px;
+margin-top: 20px;
+   
+    
+    
+    }
+
+div.m10{
+    padding: 10px;
+margin-top: 400px;
+
+background-color: rgb(188, 221, 250);
+margin-bottom: 200px;
+
+align-items: left;
+
+text-align: center;
+
+}
+div.m10 img{
+margin-top: 20px;
+width: 700px;
+
+}
+
+
+
+
+footer{
+
+padding: 20px;
+
+font-size: x-large;
+
+    background-color: rgb(55, 108, 255)
+}
+
+div.m9 p{
+
+
+
+margin-top: 0;
+
+padding: 10px;
+}
+
+div.m9 img{
+
+width: 700px;
+
+
+}
+
+p{
+
+font-family: f2;
+
+
+
+
+
+}
+
+
+
+
+h2{
+
+font-family: f1;
+text-align: center;
+
+margin-top: 100px;
+
+background-color: aliceblue;
+
+max-width: 300px;
+
+margin-left: 500px;
+
+border-radius: 10px;
+
+
+padding: 20px;
+}
+
+a{
+
+margin-left: 800px;
+
+}
+
+span.l1{
+
+margin-left: 250px;
+color: rgb(196, 223, 247);
+
+}
+
+span.l2{
+
+   
+
+    color: rgb(196, 223, 247);
+
+margin-left: 100px;
+
+
+
+}
+
+ span.l1:hover{
+ 
+cursor: pointer;
+
+color: white;
+
+
+
+ }
+ span.l2:hover{
+ 
+    cursor: pointer;
+    
+    color: white;
+    
+    
+    
+     }
+
+     span.l3{
+
+
+
+        margin-left: 100px;
+        color: rgb(196, 223, 247)
+
+     }
+
+     span.l3:hover{
+
+
+        cursor: pointer;
+    
+        color: white;
+
+
+     }
+
+     a.c1:hover{
+
+     color: white;
+
+
+
+
+     }
+
+     a.c1{
+
+
+color:   rgb(0, 0, 0); ;
+
+     }
+
+     div.cadastre-se{
+
+        color: rgb(0, 0, 0);
+margin-bottom: 130px;
+
+background-color: rgb(0, 89, 255);
+
+max-width: 300px;
+border-radius: 20px;
+padding: 30px;
+     }
+
+     div.cadastre-se p{
+
+        margin-bottom: 20px;
+     }
+
+     div.cadastre-se input{
+
+margin: 2px;
+border-radius: 5px;
+
+
+     }
+
+input.k1{
+
+
+
+
+    margin-left: 90px;
+}
+img.d1{
+
+    margin-left: 10px;
+width: 30px;
+height: 30px;
+
+}
+
+img.d1:hover{
+
+cursor: pointer;
+
+}
+
+div.m9 p{
+
+    margin-top: 20px;
+
+    margin-bottom: 10px;
+
+}
+
+div.m10 p{
+
+    margin-top: 20px;
+
+    margin-bottom: 10px;
+
+}
+div.m11 p{
+
+    margin-top: 20px;
+
+    margin-bottom: 10px;
+
+}
+
+div.m12 p{
+
+    margin-top: 20px;
+margin-bottom: 10px;
+
+
+}
+
+input.s1:hover{
+
+cursor: pointer;
+
+
+}
+
